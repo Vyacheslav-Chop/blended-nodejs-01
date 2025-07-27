@@ -6,3 +6,4 @@ export const createFakeProduct = () => ({
   category: faker.commerce.department(),
   description: faker.commerce.productDescription(),
 });
+

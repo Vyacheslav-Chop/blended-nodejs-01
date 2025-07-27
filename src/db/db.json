@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "name": "Practical Wooden Fish",
+    "price": "240.65",
+    "category": "Baby"
+  },
+  {
+    "name": "Handmade Aluminum Fish",
+    "price": "401.79",
+    "category": "Automotive"
+  },
+  {
+    "name": "Small Bronze Chips",
+    "price": "72.81",
+    "category": "Industrial"
+  },
+  {
+    "name": "Frozen Metal Pizza",
+    "price": "803.34",
+    "category": "Games"
+  },
+  {
+    "name": "Gorgeous Steel Keyboard",
+    "price": "96.69",
+    "category": "Health"
+  },
+  {
+    "name": "Tasty Plastic Salad",
+    "price": "556.79",
+    "category": "Computers"
+  },
+  {
+    "name": "Handcrafted Wooden Soap",
+    "price": "761.46",
+    "category": "Computers"
+  },
+  {
+    "name": "Bespoke Rubber Mouse",
+    "price": "501.59",
+    "category": "Games"
+  },
+  {
+    "name": "Small Gold Tuna",
+    "price": "64.00",
+    "category": "Movies"
+  },
+  {
+    "name": "Awesome Bamboo Fish",
+    "price": "630.89",
+    "category": "Industrial"
+  },
+  {
+    "name": "Luxurious Silk Pants",
+    "price": "317.05",
+    "category": "Computers",
+    "description": "New Tuna model with 79 GB RAM, 175 GB storage, and practical features"
+  },
+  {
+    "name": "Fresh Steel Tuna",
+    "price": "220.59",
+    "category": "Shoes",
+    "description": "Introducing the Kenya-inspired Bike, blending messy style with local craftsmanship"
+  },
+  {
+    "name": "Frozen Plastic Tuna",
+    "price": "59.59",
+    "category": "Health",
+    "description": "Featuring Palladium-enhanced technology, our Table offers unparalleled exalted performance"
+  },
+  {
+    "name": "Incredible Bamboo Bacon",
+    "price": "579.19",
+    "category": "Electronics",
+    "description": "Our salty-inspired Table brings a taste of luxury to your busy lifestyle"
+  },
+  {
+    "name": "Awesome Metal Computer",
+    "price": "221.99",
+    "category": "Garden",
+    "description": "Innovative Pizza featuring mature technology and Silk construction"
+  },
+  {
+    "name": "Refined Plastic Pants",
+    "price": "379.29",
+    "category": "Toys",
+    "description": "Innovative Gloves featuring overdue technology and Bronze construction"
+  },
+  {
+    "name": "Tasty Bronze Pizza",
+    "price": "103.29",
+    "category": "Baby",
+    "description": "New Shoes model with 34 GB RAM, 950 GB storage, and narrow features"
+  },
+  {
+    "name": "Awesome Concrete Ball",
+    "price": "768.30",
+    "category": "Sports",
+    "description": "Our cow-friendly Sausages ensures rough comfort for your pets"
+  },
+  {
+    "name": "Generic Metal Towels",
+    "price": "853.19",
+    "category": "Jewelry",
+    "description": "The red Tuna combines Uruguay aesthetics with Lawrencium-based durability"
+  },
+  {
+    "name": "Generic Metal Towels",
+    "price": "927.15",
+    "category": "Health",
+    "description": "The tan Shirt combines South Africa aesthetics with Barium-based durability"
+  },
+  {
+    "name": "Handmade Plastic Gloves",
+    "price": "970.19",
+    "category": "Jewelry",
+    "description": "Introducing the Jersey-inspired Computer, blending self-assured style with local craftsmanship"
+  },
+  {
+    "name": "Recycled Granite Chicken",
+    "price": "319.65",
+    "category": "Garden",
+    "description": "New blue Pants with ergonomic design for supportive comfort"
+  },
+  {
+    "name": "Oriental Gold Hat",
+    "price": "341.39",
+    "category": "Outdoors",
+    "description": "The Seamus Bike is the latest in a series of smoggy products from Turcotte - Metz"
+  },
+  {
+    "name": "Tasty Rubber Sausages",
+    "price": "292.40",
+    "category": "Books",
+    "description": "Introducing the Malawi-inspired Salad, blending lawful style with local craftsmanship"
+  },
+  {
+    "name": "Fantastic Silk Bike",
+    "price": "254.19",
+    "category": "Sports",
+    "description": "The sky blue Gloves combines Chad aesthetics with Nobelium-based durability"
+  },
+  {
+    "name": "Frozen Granite Pants",
+    "price": "635.10",
+    "category": "Sports",
+    "description": "Our hippopotamus-friendly Keyboard ensures expensive comfort for your pets"
+  },
+  {
+    "name": "Soft Plastic Pants",
+    "price": "520.69",
+    "category": "Shoes",
+    "description": "Discover the fox-like agility of our Table, perfect for downright users"
+  },
+  {
+    "name": "Ergonomic Bronze Pizza",
+    "price": "444.15",
+    "category": "Clothing",
+    "description": "Experience the azure brilliance of our Sausages, perfect for standard environments"
+  },
+  {
+    "name": "Small Steel Towels",
+    "price": "891.49",
+    "category": "Garden",
+    "description": "Our crispy-inspired Ball brings a taste of luxury to your unwritten lifestyle"
+  },
+  {
+    "name": "Incredible Granite Computer",
+    "price": "244.80",
+    "category": "Home",
+    "description": "Experience the green brilliance of our Towels, perfect for outrageous environments"
+  }
+]
